@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=honeybee's%20GitHub%20Profile&fontSize=50&color=gradient&height=250&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Queenbee's%20GitHub%20Profile&fontSize=50&color=gradient&height=250&animation=twinkling)
 
 
 - 🌱 I’m currently learning JS, JAVA.
